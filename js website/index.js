@@ -1,0 +1,1 @@
+document.getElementById('pic').innerHTML = new pic().topicString();
